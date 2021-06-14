@@ -1,4 +1,6 @@
 # Detection Lab
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/241b7159-279c-4fa2-ac3e-57271c126ac3.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/detectionlab)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/8d9a6bb7-98c5-4fdc-bfd3-ae99b6d9ade4.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/detectionlab)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/c327c910-b1ef-408e-a40c-dcad93e1af56.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/detectionlab)  
 ![DetectionLab](./img/DetectionLab.png)
 
 DetectionLab is tested weekly on Saturdays via a scheduled CircleCI workflow to ensure that builds are passing.
